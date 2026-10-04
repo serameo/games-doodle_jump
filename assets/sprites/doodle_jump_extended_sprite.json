@@ -1,0 +1,412 @@
+{
+  "frames": {
+    "cloud_small": {
+      "frame": {
+        "x": 90,
+        "y": 130,
+        "w": 190,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 190,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 190,
+        "h": 150
+      },
+      "symbol": "QS"
+    },
+    "cloud_medium": {
+      "frame": {
+        "x": 420,
+        "y": 100,
+        "w": 300,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 300,
+        "h": 200
+      },
+      "symbol": "QM"
+    },
+    "cloud_large": {
+      "frame": {
+        "x": 857,
+        "y": 87,
+        "w": 385,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 385,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 385,
+        "h": 223
+      },
+      "symbol": "QL"
+    },
+    "right_hawk1": {
+      "frame": {
+        "x": 700,
+        "y": 400,
+        "w": 230,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 190
+      },
+      "symbol": "HR1"
+    },
+    "right_hawk2": {
+      "frame": {
+        "x": 390,
+        "y": 400,
+        "w": 230,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 190
+      },
+      "symbol": "HR2"
+    },
+    "left_hawk1": {
+      "frame": {
+        "x": 1010,
+        "y": 400,
+        "w": 230,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 190
+      },
+      "symbol": "HL1"
+    },
+    "left_hawk2": {
+      "frame": {
+        "x": 70,
+        "y": 400,
+        "w": 230,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 190
+      },
+      "symbol": "HL2"
+    },
+    "red_balloon": {
+      "frame": {
+        "x": 50,
+        "y": 711,
+        "w": 145,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 205
+      },
+      "symbol": "BR1"
+    },
+    "red_dot_balloon": {
+      "frame": {
+        "x": 270,
+        "y": 711,
+        "w": 145,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 205
+      },
+      "symbol": "BR2"
+    },
+    "red_stripe_balloon": {
+      "frame": {
+        "x": 480,
+        "y": 711,
+        "w": 145,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 205
+      },
+      "symbol": "BR3"
+    },
+    "red_vertical_balloon": {
+      "frame": {
+        "x": 690,
+        "y": 711,
+        "w": 145,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 205
+      },
+      "symbol": "BR4"
+    },
+    "red_diagonal_balloon": {
+      "frame": {
+        "x": 900,
+        "y": 711,
+        "w": 145,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 205
+      },
+      "symbol": "BR5"
+    },
+    "red_checker_balloon": {
+      "frame": {
+        "x": 1110,
+        "y": 711,
+        "w": 145,
+        "h": 205
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 205
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 205
+      },
+      "symbol": "BR6"
+    },
+    "red_rocket": {
+      "frame": {
+        "x": 50,
+        "y": 970,
+        "w": 130,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 190
+      },
+      "symbol": "RR"
+    },
+    "blue_rocket": {
+      "frame": {
+        "x": 280,
+        "y": 970,
+        "w": 130,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 190
+      },
+      "symbol": "RB"
+    },
+    "green_rocket": {
+      "frame": {
+        "x": 480,
+        "y": 970,
+        "w": 130,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 190
+      },
+      "symbol": "RG"
+    },
+    "yellow_rocket": {
+      "frame": {
+        "x": 690,
+        "y": 970,
+        "w": 130,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 190
+      },
+      "symbol": "RY"
+    },
+    "purple_rocket": {
+      "frame": {
+        "x": 900,
+        "y": 970,
+        "w": 130,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 190
+      },
+      "symbol": "RP"
+    },
+    "orange_rocket": {
+      "frame": {
+        "x": 1120,
+        "y": 970,
+        "w": 130,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 190
+      },
+      "symbol": "RP"
+    }
+  },
+  "meta": {
+    "image": "doodle_jump_extended_sprite.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1312,
+      "h": 1199
+    },
+    "scale": "1"
+  }
+}

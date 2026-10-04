@@ -1,0 +1,391 @@
+{
+  "frames": {
+    "right_stand": {
+      "frame": {
+        "x": 30,
+        "y": 60,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PRS"
+    },
+    "right_run": {
+      "frame": {
+        "x": 220,
+        "y": 60,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PRR"
+    },
+    "right_jump_up": {
+      "frame": {
+        "x": 420,
+        "y": 60,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PRJ"
+    },
+    "right_fall_down": {
+      "frame": {
+        "x": 620,
+        "y": 60,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PRF"
+    },
+    "left_stand": {
+      "frame": {
+        "x": 30,
+        "y": 300,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PLS"
+    },
+    "left_run": {
+      "frame": {
+        "x": 220,
+        "y": 300,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PLR"
+    },
+    "left_jump_up": {
+      "frame": {
+        "x": 400,
+        "y": 300,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PLJ"
+    },
+    "left_fall_down": {
+      "frame": {
+        "x": 620,
+        "y": 300,
+        "w": 145,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 200
+      },
+      "symbol": "PLF"
+    },
+    "coin": {
+      "frame": {
+        "x": 880,
+        "y": 90,
+        "w": 170,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 170,
+        "h": 170
+      },
+      "symbol": "C"
+    },
+    "diamond": {
+      "frame": {
+        "x": 1230,
+        "y": 90,
+        "w": 210,
+        "h": 210
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 210
+      },
+      "symbol": "D"
+    },
+    "brick": {
+      "frame": {
+        "x": 850,
+        "y": 360,
+        "w": 600,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 120
+      },
+      "symbol": "="
+    },
+    "solid_ice": {
+      "frame": {
+        "x": 20,
+        "y": 630,
+        "w": 130,
+        "h": 300
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 300
+      },
+      "symbol": "~"
+    },
+    "cracking_ice": {
+      "frame": {
+        "x": 180,
+        "y": 630,
+        "w": 130,
+        "h": 300
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 300
+      },
+      "symbol": "~"
+    },
+    "broken_ice": {
+      "frame": {
+        "x": 340,
+        "y": 630,
+        "w": 130,
+        "h": 300
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 300
+      },
+      "symbol": "~"
+    },
+    "horizontally_moving_bar": {
+      "frame": {
+        "x": 525,
+        "y": 680,
+        "w": 284,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 284,
+        "h": 90
+      },
+      "symbol": ">"
+    },
+    "vertically_moving_bar": {
+      "frame": {
+        "x": 525,
+        "y": 680,
+        "w": 284,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 240
+      },
+      "sourceSize": {
+        "w": 284,
+        "h": 90
+      },
+      "symbol": "^"
+    },
+    "spring": {
+      "frame": {
+        "x": 1145,
+        "y": 700,
+        "w": 160,
+        "h": 250
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 250
+      },
+      "symbol": "@"
+    },
+    "fall_brick": {
+      "frame": {
+        "x": 1380,
+        "y": 660,
+        "w": 115,
+        "h": 315
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 115,
+        "h": 315
+      },
+      "symbol": "!"
+    }
+  },
+  "meta": {
+    "image": "doodle_jump_sprite_sheet.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1536,
+      "h": 1024
+    },
+    "scale": "1"
+  }
+}
